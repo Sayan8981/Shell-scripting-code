@@ -1,25 +1,28 @@
 #!/bin/bash
 
-filename_1='Idea1.txt'
+filename="Idea1.txt Idea2.txt Idea3.txt"
 source='bkp/'
 dest='output/'
-search='hkfjshgs;a;R(0,1,1)(3,2);\n_;cncs;0123;nbvhsfbvhjsbvjh vds vsjhbvs;;'
-replace=${filename_1%.txt}';a;'${filename_1%.txt}'_1;;;;'
+search=';bfkbsb;bsvbsvb;R(9,8,0);;\n;sbsd;a;6245865476;bnmvbxcv cxdada;;'
 
-echo $filename_1, $replace
+echo $filename
 
-cd $source
+echo "Script executed from: ${PWD} $filename"
 
-echo "Script executed from: ${PWD} $filename_1"
-
-if [ -e  $filename_1 ]; 
-then
-    echo $filename_1
-    sed -i -z "s/$search/$replace/" "$filename_1"
-    echo "$filename_1 is exist"
-    cd ..
-    echo "back to : ${PWD}"
-    cp $source'/'$filename_1 $dest
-else
-    echo "$filename_1 is not exist"
-fi
+for file in $filename;
+do
+    cd $source
+    echo "Script executed from: ${PWD} $file"
+    if [ -e  $file ]; then
+        echo $file
+        replace=${file%.txt}';a;'${file%.txt}'_1;;;;'
+        sed -i -z "s/$search/$replace/" "$file"
+        echo "$file is exist"
+        cd ..
+        echo "back to : ${PWD}"
+        cp $source'/'$file $dest
+    else
+        echo "Script executed from: ${PWD} $file"
+        echo "$file is not exist"
+    fi
+done    

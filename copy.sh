@@ -32,4 +32,4 @@ do
         echo "Script executed from: ${PWD} $file" >> $log
         echo "$file is not exist" >> $log
     fi
-done    
+done

@@ -6,7 +6,7 @@ echo $greet
 filename_1='Idea1.txt'
 
 search='hkfjshgs;a;R(0,1,1)(3,2);'
-replace=${filename_1%.txt} + ${';a;'} + ${filename_1%.txt} + ${'_1;;;;'}
+replace=${filename_1%.txt}';a;'${filename_1%.txt}'_1;;;;'
 
 echo $filename_1, $replace
 

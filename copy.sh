@@ -6,7 +6,6 @@ source='bkp/'
 dest='output/'
 search=';bfkbsb;bsvbsvb;R(9,8,0);;\n;sbsd;a;6245865476;bnmvbxcv cxdada;;'
 
-printf "Log File - " > $log
 date > $log
 echo $filename >> $log
 

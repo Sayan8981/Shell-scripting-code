@@ -1,12 +1,30 @@
-Tue 07 Feb 2023 09:05:44 PM IST
-Idea1.txt Idea2.txt Idea3.txt
-Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code Idea1.txt Idea2.txt Idea3.txt
-Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code/bkp Idea1.txt
-Idea1.txt is exist
-back to : /home/saayan8981/Documents/github/Shell-scripting-code
-Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code/bkp Idea2.txt
-Idea2.txt is exist
-back to : /home/saayan8981/Documents/github/Shell-scripting-code
-Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code/bkp Idea3.txt
-Idea3.txt is exist
-back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:12 PM IST]
+[saayan8981][Wed 08 Feb 2023 06:27:12 PM IST] -  Idea1.txt Idea2.txt Idea3.txt
+[saayan8981][Wed 08 Feb 2023 06:27:12 PM IST] -  Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code for [Idea1.txt Idea2.txt Idea3.txt]
+[saayan8981][Wed 08 Feb 2023 06:27:12 PM IST] -  Idea1.txt
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea1.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea1.txt copied to output/
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea2.txt
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea2.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea2.txt copied to output/
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea3.txt
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea3.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:13 PM IST] -  Idea3.txt copied to output/
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST]
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea1.txt Idea2.txt Idea3.txt
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Script executed from: /home/saayan8981/Documents/github/Shell-scripting-code for [Idea1.txt Idea2.txt Idea3.txt]
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea1.txt
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea1.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea1.txt copied to output/
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea2.txt
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea2.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea2.txt copied to output/
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea3.txt
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea3.txt is exist
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  back to : /home/saayan8981/Documents/github/Shell-scripting-code
+[saayan8981][Wed 08 Feb 2023 06:27:25 PM IST] -  Idea3.txt copied to output/

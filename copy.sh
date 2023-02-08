@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #log init
-log="/home/saayan8981/Documents/github/Shell-scripting-code/log/log_file.txt"
+log="/Users/saayandas/Documents/Github_repo/Shell-scripting-code/log/log_file.txt"
 #input files
 filename="Idea1.txt Idea2.txt Idea3.txt"
 #source to copy
